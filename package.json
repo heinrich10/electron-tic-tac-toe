@@ -11,11 +11,11 @@
     "Electron",
     "quick",
     "start",
-    "tutorial",
+    "tic tac toe",
     "demo"
   ],
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "author": "heinrich10",
+  "license": "MIT",
   "devDependencies": {
     "electron": "~1.6.2"
   }
